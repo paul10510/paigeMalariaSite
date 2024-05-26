@@ -35,6 +35,10 @@ p {
     padding-left: 20px;
 }
 
+li {
+    padding-bottom: 10px;
+}
+
 a {
     color: #000080;
 }
