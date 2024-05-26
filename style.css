@@ -1,14 +1,25 @@
 body {
     background-color: white;
-    color: navy;
+}
+
+#banner {
+    width: 100%;
+    background-color: #806800;
+    height: 100px;
 }
 
 #heading {
+    color: navy;
     text-align: center;
+}
+
+#heading a{
+    color: navy;
 }
 
 #mainText {
     padding-left: 20px;
+    color: navy;
 }
 
 #menu a{
@@ -25,5 +36,5 @@ p {
 }
 
 a {
-    color: navy;
+    color: #000080;
 }
